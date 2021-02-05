@@ -9,9 +9,9 @@
 
 ## My stats
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cinnamonsroll0&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cinnamonsroll&theme=tokyonight&layout=compact)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinnamonsroll0&count_private=true&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinnamonsroll&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Things i know
 - Javascript
