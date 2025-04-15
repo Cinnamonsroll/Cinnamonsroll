@@ -1,21 +1,25 @@
-# Hey, so you found me!
+# Hi, I'm Juliette 👋
 
-- 🔭 Currently working on learning regexp
-- 🌱 Currently learning Javascript
-- 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few bots...
-- ⚡ Fact: My first ever language to learn was c#!
+I'm a curious and creative developer who loves building things — mostly with **TypeScript** and **React**, but I'm always exploring new languages and technologies. While I work on many projects, only a few make it out into the wild — I believe in learning through building, even if it doesn't always get released.
 
+## 🛠️ Tech Stack & Tools
 
+- **Languages:** TypeScript, JavaScript, Python, Go
+- **Frameworks/Libraries:** React, Next.js, Node.js, Express
+- **Tools:** Git, VS Code, Vite, Webpack
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Other Interests:** UI/UX design, open source, systems thinking, language learning
 
-## My stats
+## 🌱 Currently
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cinnamonsroll&theme=tokyonight&layout=compact)
+- Experimenting with full-stack ideas using Next.js and Prisma
+- Playing with animations and microinteractions in React
+- Writing cleaner, more intentional code
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinnamonsroll&count_private=true&show_icons=true&theme=tokyonight)
+## 💡 Philosophy
 
-## Things i know
-- Javascript
-- Node.js
-- Ejs
-- C#
-- Being lazy
+> *“Build often. Ship sometimes. Learn always.”*
+
+---
+
+🧭 I'm always exploring, learning, and occasionally sharing — feel free to check out what I’ve been up to!
