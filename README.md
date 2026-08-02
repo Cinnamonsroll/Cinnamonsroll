@@ -1,6 +1,6 @@
 # Hi, I'm Juliette 👋
 
-I'm a curious and creative developer who loves building things — mostly with **TypeScript** and **React**, but I'm always exploring new languages and technologies. While I work on many projects, only a few make it out into the wild — I believe in learning through building, even if it doesn't always get released.
+I'm a curious and creative developer who loves building things mostly with **TypeScript** and **React**, but I'm always exploring new languages and technologies. While I work on many projects, only a few make it out into the wild. I believe in learning through building, even if it doesn't always get released.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -22,4 +22,4 @@ I'm a curious and creative developer who loves building things — mostly with *
 
 ---
 
-🧭 I'm always exploring, learning, and occasionally sharing — feel free to check out what I’ve been up to!
+🧭 I'm always exploring, learning, and occasionally sharing; feel free to check out what I’ve been up to!
